@@ -1,6 +1,7 @@
 # Queens Puzzle
-比較習慣用notion整理筆記可能排版與內容有調整，連結:https://east-seatbelt-03b.notion.site/Queens-Puzzle-19b921537a5c80ba814ddff99d3ee93f
-
+詳細筆記
+https://medium.com/@bombom7108/queens-puzzle-2051c2ab8dc0
+https://www.software-jed.com/article/queen-puzzle/
 
 **八皇后問題**是一個以西洋棋為背景的問題：如何能夠在8×8的西洋棋棋盤上放置八個[皇后](https://zh.wikipedia.org/wiki/%E5%90%8E_(%E5%9B%BD%E9%99%85%E8%B1%A1%E6%A3%8B))，使得任何一個皇后都無法直接吃掉其他的皇后。而規則如下:
 
